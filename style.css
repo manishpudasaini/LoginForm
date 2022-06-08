@@ -1,0 +1,13 @@
+/* *{
+    margin: 0;
+} */
+body {
+  display: flex;
+  justify-content: center;
+}
+.container {
+  height: 20em;
+  width: 30em;
+  background-color: aquamarine;
+  padding-left: 3em;
+}
